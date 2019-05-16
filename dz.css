@@ -1,0 +1,59 @@
+body{
+	background-image: url(https://i.ytimg.com/vi/aFGjJ67x-eI/hqdefault_live.jpg);
+}
+a{
+	color:rgb(11,7,4);
+	font-size:10px;
+}
+div{
+	color:rgb(212,31,14);
+}
+#a1{
+	color:rgb(212,31,14);
+	font-size:10px;
+}
+
+
+
+.z1{
+	color:rgb(212,31,14);
+}
+
+
+
+.message{
+	background-color:rgb(11,7,4);
+	border:5px solid rgb(212,31,14);
+	margin-left:200px;
+	margin-right:200px;
+	margin-top:0px;
+	padding-bottom:10px;
+	padding-top:10px;
+	
+}
+.message1{
+	color:rgb(11,7,4);
+	background-color:rgba(212,31,14);
+	border:5px dashed rgb(42,100,28);
+	margin-left:150px;
+	margin-right:150px;
+	margin-top:275px;
+	padding-bottom:10px;
+	padding-top:10px;
+}
+.message2{
+	color:rgb(212,31,14);
+	border:5px solid rgb(212,31,14);
+	background-color:rgb(11,7,4);
+	margin-left:100px;
+	margin-right:100px;
+	margin-top:270px;
+
+	padding-bottom:10px;
+	padding-top:10px;
+}
+.text:hover{
+	
+	border:10px solid rgb(212,31,14);
+	
+}
